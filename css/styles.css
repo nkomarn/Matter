@@ -1,0 +1,26 @@
+body
+{
+	border-radius: 5px;
+	display: block;
+	background-color: #fff;
+	-webkit-app-region: drag;
+}
+.banner
+{
+	background-color: transparent;
+	display: inline;
+	line-height: 100px;
+}
+.enable
+{
+	background-color: #eaeaea;
+	color: #23272a;
+	width: 200px;
+	height: 40px;
+	border-radius: 10px;
+}
+.input 
+{
+	background-color: #fff;
+	-webkit-app-region: no-drag;
+}
